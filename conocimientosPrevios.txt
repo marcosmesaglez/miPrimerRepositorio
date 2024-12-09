@@ -1,2 +1,3 @@
 Comencé la carrera de ingeniería informática
 Comenzamos en el primer año con Java y python
+Y luego en el segundo año (donde ya no pude continuar estudiando) habíamos visto codigo maquina y alguna cosa más.
